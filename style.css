@@ -1,0 +1,39 @@
+body {
+    margin: 0 ;
+    background-image: url(img/3.jpg) ;
+    background-repeat: no-repeats ;
+    color:white;
+    font-family:  'moncerat', sans-serif ;
+    text-align: center;
+    height: 100%s ;
+    max-width:1600px ;
+}
+
+
+/* main*/
+
+main{
+  font-size: 26px;
+  font-weight:bold;
+  text-align: center;
+}
+
+
+/* div*/
+div{
+  margin: 15px auto;
+}
+
+/* a-size*/
+
+.a-size{
+  color: rgb(157, 165, 6);
+  font-size:30px ;
+  border-
+}
+
+/*contener*/
+
+.contener-li{
+  font-size: 20px ;
+}
