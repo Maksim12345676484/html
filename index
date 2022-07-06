@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <title>Homework</title>
+</head>
+<body>
+   <h1>Homework</h1>
+   <h2>Homework</h2>
+   <h3>Homework</h3>
+   <h4>Homework</h4>
+   <h5>Homework</h5>
+   <h6>Homework</h6>
+
+<main>
+   <p>HTML is a markup language used to mark up web pages for the Internet.
+    Browsers retrieve HTML documents from a web server or from local storage and render the documents into multimedia web pages.
+    HTML describes the structure of a web page semantically and initially prompts for the display of a document.</p>
+   <a class="a-size" href="https://www.freecodecamp.org/learn" target="_blank">
+        Learn more here 
+      </a>
+    </main>      
+
+   <div>
+
+      <img src="img/1234.png">
+      <img src="img/4321.jfif">
+
+       <form>
+  
+        <input type="text"  placeholder="User" required   >  
+        <input  type="text"  placeholder="Surname" required > 
+    
+        <input type="radio" name="indoor-outdoor" required>woman
+        <input type="radio" name="indoor-outdoor" required>man
+    
+        <input type="checkbox" name="personality" checked>
+        <input type="checkbox" name="personality" checked>
+        <input type="checkbox" name="personality" checked>
+
+        <button type="submit">Send</button>
+     </form>
+      
+    </div >
+<contener class="contener-li">
+    <ul>
+      <li>unordered list</li>
+      <li>unordered list</li>
+      <li>unordered list</li>
+    </ul>
+    <ol>
+      <li>ordered list</li>
+      <li>ordered list</li>
+      <li>ordered list</li>
+    </ol>
+</contener>
+    <video width="300" height="500" src="video/pexels-ekaterina-bolovtsova-6650207.mp4" controls></video>
+       
+ 
+  </body>
+</html>
